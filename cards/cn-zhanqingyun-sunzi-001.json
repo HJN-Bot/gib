@@ -1,0 +1,33 @@
+{
+  "id": "cn-zhanqingyun-sunzi-001",
+  "leader": "詹青云",
+  "topic": "《孙子兵法》：善战者致人，而不致于人",
+  "claim": "高水平执行不是被动响应，而是主动设局：先定义胜利条件，再设计节奏与边界，让外部变量进入你的框架。",
+  "evidence": {
+    "quote": "故善战者致人，而不致于人。",
+    "source_url": "http://xhslink.com/o/5MfRooYiS9T",
+    "source_type": "xiaohongshu"
+  },
+  "applicable_scenarios": [
+    "多任务并行导致节奏失控",
+    "项目推进被外部需求持续打断",
+    "团队协作里角色边界模糊"
+  ],
+  "non_applicable_scenarios": [
+    "信息不足且目标未澄清时直接强推节奏",
+    "需要先广泛探索的早期发散阶段"
+  ],
+  "mapping_to_jianan": {
+    "daily_rule": "每天先写‘今日胜利条件+主动动作3条’，再开工。",
+    "task_rule": "每个任务先定义：不做什么（边界）、何时反馈（节奏）、何时验收（终点）。",
+    "agent_rule": "四个agent的建议必须包含‘主动动作’而非仅建议列表。"
+  },
+  "output_templates": {
+    "short": "今天先定胜利条件，再定3个主动动作；不被消息流带走。",
+    "decision": "决策：先收敛目标后执行。依据：致人而不致于人。风险：过度控制导致信息盲区。缓解：保留1个探索窗口。",
+    "execution": "1) 写胜利条件 2) 设三段时间块 3) 明确边界清单 4) 晚上按边界复盘。"
+  },
+  "confidence": 0.78,
+  "status": "seed",
+  "created_at": "2026-03-14T13:33:56.755392Z"
+}
